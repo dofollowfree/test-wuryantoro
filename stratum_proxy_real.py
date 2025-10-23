@@ -25,8 +25,8 @@ import requests
 import sys
 
 # ====== CONFIGURATION - EDIT BEFORE RUNNING ======
-RPC_USER = "user"
-RPC_PASS = "pass"
+RPC_USER = "bitcoin"
+RPC_PASS = "bitcoin"
 RPC_HOST = "127.0.0.1"
 RPC_PORT = 8332
 
